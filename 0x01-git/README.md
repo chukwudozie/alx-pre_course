@@ -1,1 +1,1 @@
-Read me for git directory
+Read me for git directory updated!
